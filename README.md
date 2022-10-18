@@ -7,4 +7,4 @@ Here are some things about me:
 - 🐍 I have completed courses in R & Python
 - 🌱 I’m passionate about the environment and sustainability
 - 💃 Pronouns: She/Her
-- ⚡ Take a look at my IMDB Web Scraping and Analysis Project!
+- ⚡ Take a look at my IBDB Web Scraping and Analysis Project!
